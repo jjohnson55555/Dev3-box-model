@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+
+#containerBox {
+  position: fixed;
+
+  height: 300px;
+  width: 300px;
+  background-color:#8E24AA
+}
+
+#contentBox{
+  
+  border: solid 1px blue;
+  left: 50%
+  margin: 37px;
+  padding: 14px;
+  width: 40%;
+}
+
+.floatBox {
+  height: 50px;
+  background-color:#8E24AA;
+  width: 50px;
+  float: left;
+  padding: 10px;
+  margin-right: 4px;
+}
